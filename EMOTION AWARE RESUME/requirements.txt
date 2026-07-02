@@ -1,0 +1,8 @@
+streamlit
+torch
+transformers==4.36.2
+opencv-python
+numpy
+librosa
+soundfile
+PyPDF2
